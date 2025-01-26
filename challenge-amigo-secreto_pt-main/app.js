@@ -17,5 +17,20 @@ function adicionarAmigo() {
     // Limpa o campo de entrada
     document.getElementById("amigo").value = "";
 
+    // Atualiza a lista de amigos exibida na tela
+    atualizarLista();
+
     console.log(`${nomeAmigo} foi adicionado com sucesso!`);
+}
+
+// Atualiza a lista de amigos exibida na tela
+function atualizarLista() {
+    const lista = document.getElementById("listaAmigos");
+    lista.innerHTML = ""; // Limpa a lista atual
+
+    amigos.forEach((amigo) => {
+        const li = document.createElement("li");
+        li.textContent = amigo;
+        lista.appendChild(li);
+    });
 }
