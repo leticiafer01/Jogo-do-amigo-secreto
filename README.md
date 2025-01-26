@@ -62,7 +62,7 @@
 
 <p>Pronto para organizar seu Amigo Secreto? Acesse o jogo e comece a diversão agora mesmo:</p>
 
-<p><a href="#">👉 Iniciar o Jogo</a></p>
+<p><a href="https://leticiafer01.github.io/Jogo-do-amigo-secreto/">👉 Iniciar o Jogo</a></p>
 
 ---
 
