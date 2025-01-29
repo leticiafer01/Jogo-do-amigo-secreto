@@ -12,7 +12,7 @@
 - [💻 Tecnologias Utilizadas](#tecnologias-utilizadas)
 - [🔎 Como Usar?](#como-usar)
 - [🌐 Acesse Agora](#acesse-agora)
-- [✨ Sobre Mim](#sobre-mim)
+- [🐣 Sobre Mim](#sobre-mim)
 
 ---
 
@@ -67,7 +67,7 @@
 ---
 
 <div align="center">
-  <h2 id="sobre-mim">✨ Sobre Mim</h2>
+  <h2 id="sobre-mim">🐣 Sobre Mim</h2>
 </div>
 
 <p>Meu nome é <strong>Letícia</strong>, e este projeto foi criado durante minha jornada de aprendizado em programação.</p>
