@@ -1,23 +1,24 @@
 <div align="center">
-  <h1>🎁 Jogo do Amigo Secreto</h1>
+  <h1>🎁Jogo do Amigo Secreto🎁</h1>
 </div>
 
 <p>Organize seu Amigo Secreto de forma simples e divertida! Adicione participantes, faça o sorteio e descubra quem tirou quem. Ideal para festas e encontros especiais. 🎉</p>
 
 ---
 
-## 📖 Sumário
+<div align="center">
+ <h2 id="Sumário"> 📑 Sumário</h2>
+</div>
 
-- [✨ Funcionalidades](#funcionalidades)
-- [💻 Tecnologias Utilizadas](#tecnologias-utilizadas)
-- [🔎 Como Usar?](#como-usar)
+- [🧮 Funcionalidades](#funcionalidades)
+- [🖥 Tecnologias Utilizadas](#tecnologias-utilizadas)
+- [🏹 Como Usar?](#como-usar)
 - [🌐 Acesse Agora](#acesse-agora)
-- [🐣 Sobre Mim](#sobre-mim)
 
 ---
 
 <div align="center">
-  <h2 id="funcionalidades">✨ Funcionalidades</h2>
+  <h2 id="funcionalidades"> 🧮 Funcionalidades</h2>
 </div>
 
 <p>Adicione uma lista personalizada de amigos e sorteie de maneira automática:</p>
@@ -31,7 +32,7 @@
 ---
 
 <div align="center">
-  <h2 id="tecnologias-utilizadas">💻 Tecnologias Utilizadas</h2>
+  <h2 id="tecnologias-utilizadas"> 🖥 Tecnologias Utilizadas</h2>
 </div>
 
 <p>Este projeto foi desenvolvido com foco na eficiência e usabilidade:</p>
@@ -45,7 +46,7 @@
 ---
 
 <div align="center">
-  <h2 id="como-usar">🔎 Como Usar?</h2>
+  <h2 id="como-usar"> 🏹 Como Usar?</h2>
 </div>
 
 <ol>
@@ -57,19 +58,11 @@
 ---
 
 <div align="center">
-  <h2 id="acesse-agora">🌐 Acesse Agora</h2>
+  <h2 id="acesse-agora">🌐 Acesse </h2>
 </div>
 
 <p>Pronto para organizar seu Amigo Secreto? Acesse o jogo e comece a diversão agora mesmo:</p>
 
-<p><a href="https://leticiafer01.github.io/Jogo-do-amigo-secreto/">👉 Iniciar o Jogo</a></p>
+<p><a href="https://leticiafer01.github.io/Jogo-do-amigo-secreto/">🕹 Iniciar o Jogo</a></p>
 
 ---
-
-<div align="center">
-  <h2 id="sobre-mim">🐣 Sobre Mim</h2>
-</div>
-
-<p>Meu nome é <strong>Letícia</strong>, e este projeto foi criado durante minha jornada de aprendizado em programação.</p>
-
-<p>Agradeço à <strong>Alura</strong> e à <strong>Oracle</strong>, pela oportunidade de desenvolvimento.</p>
